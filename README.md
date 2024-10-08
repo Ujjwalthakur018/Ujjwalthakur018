@@ -13,6 +13,8 @@
 - <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ujjwal-thakur018" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ujjwal-thakur018" height="30" width="40" /></a>
+<a href="https://discord.gg/thakurujjwal1812" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="thakurujjwal1812" height="35" width="40" /></a>
+</p>
 
 <h3 align="left">Tools:</h3>
 <p align="left"> 
