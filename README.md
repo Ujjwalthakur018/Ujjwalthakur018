@@ -2,6 +2,9 @@
 
  <h1 align="center">Hi 👋, I'm Ujjwal Thakur</h1>
 
+ <img align="center" alt="GIF" src="https://frogdesign.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2020/08/04192430/AI_designing-with-data.gif">
+<br>
+
 - 👀 - 👨‍💻 All of my projects are available at [https://peerlist.io/ujjwalthakur](https://peerlist.io/ujjwalthakur)
 
 - 🌱 I’m currently learning Data Analytics
