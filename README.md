@@ -1,4 +1,4 @@
-<h3 align="center">Pursuing MBA in Business Analytics from the University of Petroleum and Energy studies.| I am driven by my curiosity for unraveling insights from data to inform strategic decisions. I'm passionate about harnessing the power of data to solve real-world problems and uncover trends that drive innovation. With a solid foundation in statistical analysis and data visualization. I am a quick learner and believe in giving my 100% in everything that I do.</h3>
+<h3 align="center">Recent graduate from MBA in Business Analytics from the University of Petroleum and Energy studies.| I am driven by my curiosity for unraveling insights from data to inform strategic decisions. I'm passionate about harnessing the power of data to solve real-world problems and uncover trends that drive innovation. With a solid foundation in statistical analysis and data visualization. I am a quick learner and believe in giving my 100% in everything that I do.</h3>
 
  <h1 align="center">Hi 👋, I'm Ujjwal Thakur</h1>
 
